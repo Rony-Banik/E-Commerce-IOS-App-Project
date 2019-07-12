@@ -1,0 +1,247 @@
+[
+    {
+        "id":1,
+        "ProductType":"Television",
+        "ProductName":"WE4-DH32-BY200 Smart Walton TV",
+        "Quality":"S- Screen size: 32'' - Android Operating System- ARM Cortex Quad-core processor- Build-in 4GB internal memory- High Speed build-in Wi-Fi module- Resolution 1366 x 768",
+        "BrandName":"Walton",
+        "Price":"576.99",
+        "Sale":1,
+        "URL":"https://4.bp.blogspot.com/-GqsaUlazogc/WlYV0ESLqSI/AAAAAAAAOZg/GuV8nY2B8KYWS4mkUevI2FU1vXn8HurPgCLcBGAs/s1600/WE4-DH32-BY200.jpg"
+    },
+    {
+        "id":3,
+        "ProductType":"Television",
+        "ProductName":"Insignia 19'' LED TV",
+        "Quality":"366 x 768 HD ",
+        "BrandName":"Insignia",
+        "Price":"735.00",
+        "Sale":1,
+        "URL":"https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/103/10382/10382473.jpg"
+    },
+    {
+        "id":4,
+        "ProductType":"Television",
+        "ProductName":"Samsung UN26EH4000",
+        "Quality":"HD LED Picture Quality",
+        "BrandName":"Samsung",
+        "Price":"799.99",
+        "Sale":1,
+        "URL":"https://okesuksesb.files.wordpress.com/2013/09/bd73f-samsung-un26eh4000-26-inch-720p-black1.jpg"
+    },
+    {
+        "id":5,
+        "ProductType":"Television",
+        "ProductName":"32 Class",
+        "Quality":"1080p-60Hz Smart",
+        "BrandName":"Samsung",
+        "Price":"369.00",
+        "Sale":0,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7845/7845041_sa.jpg"
+    },
+    {
+        "id":6,
+        "ProductType":"Television",
+        "ProductName":"46 Class",
+        "Quality":"1080p-120Hz Smart",
+        "BrandName":"Sony",
+        "Price":"849.99",
+        "Sale":0,
+        "URL":"https://image3.pricedekho.com/p/6/3/53/37653/117742-sony-kdl-40ex650-40-inches-full-hd-led-tv-picture-large.jpg"
+    },
+    {
+        "id":7,
+        "ProductType":"Television",
+        "ProductName":"50 Class",
+        "Quality":"1080p-120Hz Smart",
+        "BrandName":"Vizio",
+        "Price":"599.99",
+        "Sale":0,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7171/7171064_500x500_sa.jpg"
+    },
+    {
+        "id":8,
+        "ProductType":"Television",
+        "ProductName":"55 Class",
+        "Quality":"1080p-240Hz Smart-3D",
+        "BrandName":"Samsung",
+        "Price":"1697.99",
+        "Sale":0,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8224/8224045_sa.jpg"
+    },
+    {
+        "id":9,
+        "ProductType":"Television",
+        "ProductName":"Hisense H50A6200UK 50-Inch",
+        "Quality":"1080p-60Hz",
+        "BrandName":"Hisense",
+        "Price":"359.99",
+        "Sale":0,
+        "URL":"https://www.webantics.com/content/images/thumbs/004/0047912_hisense-k220-55-full-hd-smart-lite-led-tv.jpeg"
+    },
+    {
+        "id":10,
+        "ProductType":"Television",
+        "ProductName":"LG LH454A 60cm ",
+        "Quality":"1080p-60Hz",
+        "BrandName":"LG",
+        "Price":"179.99",
+        "Sale":0,
+        "URL":"https://rukminim1.flixcart.com/image/832/832/television/k/z/9/lg-24lh454a-original-imaejnzjfxpm2ggg.jpeg?q=70"
+    },
+    {
+        "id":11,
+        "ProductType":"Laptops",
+        "ProductName":"17.3",
+        "Quality":"Intel Core i7-1TB",
+        "BrandName":"ASUS",
+        "Price":"1299.99",
+        "Sale":0,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6224/6224501_sd.jpg"
+    },
+    {
+        "id":12,
+        "ProductType":"Laptops",
+        "ProductName":"SAMSUNG Laptop Notebook 9 NP900X5T-K01US ",
+        "Quality":"Intel Core i7-500GB",
+        "BrandName":"Samsung",
+        "Price":"654.98",
+        "Sale":0,
+        "URL":"https://c1.neweggimages.com/NeweggImage/ProductImage/34-132-198-V24.jpg"
+    },
+    {
+        "id":13,
+        "ProductType":"Laptops",
+        "ProductName":"Mac Air",
+        "Quality":"Intel Core i7-256GB",
+        "BrandName":"Apple",
+        "Price":"1798.00",
+        "Sale":0,
+        "URL":"https://images.techhive.com/images/article/2014/12/macbook_air-100538062-large.jpg"
+    },
+    {
+        "id":14,
+        "ProductType":"Laptops",
+        "ProductName":"ATIV Book 9 Plus 13.3",
+        "Quality":"Intel Core i5-128GB",
+        "BrandName":"ASUS",
+        "Price":"1661.72",
+        "Sale":0,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/mp/products/1309/1309922/1309922215/1309922215_500x500_sa.jpg"
+    },
+    {
+        "id":15,
+        "ProductType":"Mobile",
+        "ProductName":"Galaxy S 5",
+        "Quality":"Android 4.4.2 KitKat",
+        "BrandName":"Samsung",
+        "Price":"149.99",
+        "Sale":0,
+        "URL":"https://images-na.ssl-images-amazon.com/images/I/516fj5C-xML.jpg"
+    },
+    {
+        "id":16,
+        "ProductType":"Mobile",
+        "ProductName":"iPhone 6s",
+        "Quality":"IOS7",
+        "BrandName":"Apple",
+        "Price":"99.98",
+        "Sale":0,
+        "URL":"https://cdn.macrumors.com/article-new/2018/01/iphone-6s-plus-front-back.jpg"
+    },
+    {
+        "id":17,
+        "ProductType":"Mobile",
+        "ProductName":"G2",
+        "Quality":"Android 4.2.2 Jelly Bean",
+        "BrandName":"LG",
+        "Price":"49.99",
+        "Sale":0,
+        "URL":"https://images.bestbuy.com/BestBuy_US/images/products/1710/1710023_sc.jpg"
+    },
+    {
+        "id":18,
+        "ProductType":"Mobile",
+        "ProductName":"Galaxy S4",
+        "Quality":"4.2.2 JellyBean",
+        "BrandName":"Samsung",
+        "Price":"49.99",
+        "Sale":0,
+        "URL":"https://images.bestbuy.com/BestBuy_US/images/products/2400/2400017_sc.jpg"
+    },
+    {
+        "id":19,
+        "ProductType":"Desktop",
+        "ProductName":"Dell Inspiron 3520",
+        "Quality":"Black, Perfect for regular user.",
+        "BrandName":"Dell",
+        "Price":"18.99",
+        "Sale":1,
+        "URL":"https://5.imimg.com/data5/LP/GH/MY-3203416/dell-inspiron-3520-desktop-500x500.jpg"
+    },
+    {
+        "id":20,
+        "ProductType":"Desktop",
+        "ProductName":"iMac Pro",
+        "Quality":"Procesador Intel Core i7 de 6 núcleos y octava generación de 2.2GHz Turbo Boost hasta 4.1GHz Radeon Pro 555X con 4 GB.",
+        "BrandName":"Apple",
+        "Price":"499.99",
+        "Sale":0,
+        "URL":"https://cdn.shopify.com/s/files/1/0101/2522/products/imac-gallery1-201706_033a66de-c836-436c-93ea-ddf13034c6bd.jpeg?v=1522178523"
+    },
+    {
+        "id":21,
+        "ProductType":"Tablet",
+        "ProductName":"Sony Xperia Z4 Tablet",
+        "Quality":"Black, Cheap Price",
+        "BrandName":"Sony",
+        "Price":"299.99",
+        "Sale":0,
+        "URL":"https://www.android.com/static/2016/img/devices/tablets/sony-xperia-z4_w_1x.jpg"
+    },
+    {
+        "id":22,
+        "ProductType":"Tablet",
+        "ProductName":"Samsung Galaxy Tab A 10.1",
+        "Quality":"Silver",
+        "BrandName":"Samsung",
+        "Price":"349.99",
+        "Sale":1,
+        "URL":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10450/10450218.jpg"
+    },
+    {
+        "id":23,
+        "ProductType":"Tablet",
+        "ProductName":"Apple iPad mini 4 128GB",
+        "Quality":"The iPad mini 4 with 7.9-inch Retina display. Powerful A8 chip, advanced iSight and HD cameras, WiFi, Touch ID fingerprint sensor",
+        "BrandName":"Apple",
+        "Price":"59.99",
+        "Sale":0,
+        "URL":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/103/10389/10389497.jpg"
+    },
+    {
+        "id":24,
+        "ProductType":"Desktop",
+        "ProductName":"XBOX One",
+        "Quality":"Titanfall Bundle",
+        "BrandName":"Microsoft",
+        "Price":"499.99",
+        "Sale":0,
+        "URL":"https://4.imimg.com/data4/CO/YS/MY-29352968/samsung-desktop-computer-500x500.jpg"
+    },
+    {
+        "id":25,
+        "ProductType":"Television",
+        "ProductName":"22 Class dis",
+        "Quality":"1080p-60Hz",
+        "BrandName":"Samsung",
+        "Price":"179.99",
+        "Sale":1,
+        "URL":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7979/7979341_500x500_sa.jpg"
+    }
+]
+ 
+ 
+ 
+ 
+
